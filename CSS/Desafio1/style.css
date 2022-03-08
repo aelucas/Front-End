@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Rubik:ital@1&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.embrulho{
+    width: 1120px;
+    margin: 0 auto;
+
+}
+header{
+    background-color: #3c184e;
+    padding: 10px 0;
+    
+}
+header>div{
+    display: flex;
+    color: #fff;
+    
+}
+header>div>h3{
+    font-style:'rubick' sans-serif;
+    margin-left: 10px;
+}
+.banner{
+    padding: 64px 0;
+    
+}
+h1{
+    font-style: 'merriweather';
+    font-size: 64px;
+    color: #3c184e;
+    margin-top: 20px;
+    
+}
+.banner > div > p{
+    font-family: 'Rubik', sans-serif;
+    color: #3C184E;
+    margin: 20px 0 40px;
+}
+#botao{
+    font-family: 'Rubick' sans-serif;
+    color: #fff;
+    background-color: #713fff;
+    padding:  12px 32px;
+    border-radius: 40px;
+    display: block;
+    width: 140px;
+}
+#secao1{
+    background-color: #713fff;
+    color: #fff;
+    padding: 64px 0 0.1px;
+    
+
+}
+.titulo_secao{
+    font-family: 'merriweather';
+    font-size: 48px;
+    margin-bottom: 32px;
+    
+    
+
+}
+.artigo{
+    background-color: #3c184e;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 64px;
+}
+.artigo > h3{
+    font-family: 'merriweather', serif;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+.artigo>p{
+    font-family: 'Rubick',sans-serif;
+    font-size:18px;
+    
+}
+footer{
+    background-color: #3c184e;
+    color: #fff;
+    font-family: 'rubick', sans-serif;
+    padding: 10px 0; 
+    font-size: 18px;
+    text-align: center;
+}
