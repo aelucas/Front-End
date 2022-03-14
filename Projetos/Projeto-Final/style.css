@@ -160,6 +160,7 @@ p{
     .links_header{
         padding:10px;
         
+        
     }      
     
     main{
@@ -184,6 +185,7 @@ p{
     .conteiner{
         width: 100%;
         justify-content: center;
+        
     }
     .card-projeto{
         width: 100%;
